@@ -6,4 +6,4 @@ Conducted time-series analysis to estimate the relationship between data center 
 * Presented findings and methodology to students and faculty at the UMD research conference.  
 
 
-[View Research Poster](Poster & Manucript/research_poster.pdf)
+[View Research Poster](Poster & Manuscript/Final Poster.pdf)
