@@ -1,0 +1,10 @@
+Year,Annual Average CPI(-U),Annual Percent Change (rate of inflation),Virginia Population,Consumption,Global AI Workload Growth (%),US Data Center Energy Consumption (TWh),Share of Total US Power Demand (%),AI Model Power Consumption (MW),Cooling Energy Consumption (TWh),Residential Retail Electricity Prices,AI Boom Dummy
+2018,251.1,2.40%,8510920,12884,15,135,3.4,70,40,11.77,0
+2019,255.7,1.80%,8556642,13841,22,150,3.8,85,45,12.1,0
+2020,258.8,1.20%,8637303,13575,35,170,4.2,100,51,12.07,0
+2021,271,4.70%,8660007,14462,50,190,4.7,120,58,12.02,0
+2022,292.7,8.00%,8681038,15236,70,220,5.3,140,66,13.38,0.5
+2023,304.7,4.10%,8732034,15153,90,250,5.9,170,75,14.32,1
+2024,313.7,2.90%,8819642,15652,N/A,N/A,N/A,N/A,N/A,14.49,1
+2025,321.9,2.60%,8880107,N/A,N/A,N/A,N/A,N/A,N/A,15.38,1
+2026,330.9,2.70%,8940000,N/A,N/A,N/A,N/A,N/A,N/A,16.29,1

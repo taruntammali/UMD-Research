@@ -1,0 +1,22 @@
+Entity,Ownership,Customers (Count),Sales (Megawatthours),Revenues (Thousands Dollars),Average Price (cents/kWh)
+A & N Electric Coop,Cooperative,"33,096","368,014","47,920.50",13.02
+Appalachian Power Co,Investor Owned,"465,283","5,850,904","995,624.00",17.02
+Bristol Virginia Utilities,Municipal,"13,633","195,777","21,515.00",10.99
+Central Virginia Electric Coop,Cooperative,"34,893","495,787","80,033.00",16.14
+City of Danville - (VA),Municipal,"37,781","450,854","67,661.60",15.01
+City of Harrisonburg - (VA),Municipal,"18,089","203,590","23,125.00",11.36
+City of Manassas - (VA),Municipal,"13,947","166,150","19,329.00",11.63
+City of Salem - (VA),Municipal,"11,298","124,695","18,847.50",15.11
+Kentucky Utilities Co,Investor Owned,"22,669","325,240","46,449.10",14.28
+Mecklenburg Electric Cooperative,Cooperative,"30,016","350,293","50,807.00",14.5
+"Northern Neck Elec Coop, Inc",Cooperative,"17,991","243,248","39,223.00",16.12
+Northern Virginia Elec Coop,Cooperative,"167,274","2,296,226","265,681.00",11.57
+Powell Valley Electric Coop,Cooperative,"6,589","86,575","9,884.00",11.42
+Prince George Electric Coop,Cooperative,"10,954","170,875","22,296.00",13.05
+Rappahannock Electric Coop,Cooperative,"169,489","2,328,716","346,690.00",14.89
+Shenandoah Valley Elec Coop,Cooperative,"85,281","1,192,869","164,727.50",13.81
+"Southside Electric Coop, Inc",Cooperative,"56,846","755,643","116,956.90",15.48
+Sunnova,Behind the Meter,2,4,0.4,10
+Tesla Inc.,Behind the Meter,66,274,11,4.01
+Virginia Electric & Power Co,Investor Owned,"2,383,548","28,742,267","4,051,030.40",14.09
+Virginia Tech Electric Service,State,"5,660","53,434","9,177.60",17.18
