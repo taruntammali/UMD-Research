@@ -4,3 +4,6 @@ Conducted time-series analysis to estimate the relationship between data center 
 * Applied Augmented Dickey-Fuller (ADF) and Kwiatkowski–Phillips–Schmidt–Shin (KPSS) tests to validate the model.
 * Identified that real Virginia electricity prices track natural gas costs at a ~6-month lag while data center load was not robust across specifications. 
 * Presented findings and methodology to students and faculty at the UMD research conference.  
+
+
+[View Research Poster](Poster & Manucript/research_poster.pdf)
